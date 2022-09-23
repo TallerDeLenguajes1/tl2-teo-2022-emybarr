@@ -1,0 +1,5 @@
+C:\mimi\tl2-teo-2022-emybarr\Banco\obj\Debug\net6.0\Banco.csproj.AssemblyReference.cache
+C:\mimi\tl2-teo-2022-emybarr\Banco\obj\Debug\net6.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\mimi\tl2-teo-2022-emybarr\Banco\obj\Debug\net6.0\Banco.AssemblyInfoInputs.cache
+C:\mimi\tl2-teo-2022-emybarr\Banco\obj\Debug\net6.0\Banco.AssemblyInfo.cs
+C:\mimi\tl2-teo-2022-emybarr\Banco\obj\Debug\net6.0\Banco.csproj.CoreCompileInputs.cache
